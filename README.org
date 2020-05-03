@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=comparison][Comparison]], [[https://srfi.schemers.org/?keywords=superseded][Superseded]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-114/][SRFI 114]]: Comparators, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
