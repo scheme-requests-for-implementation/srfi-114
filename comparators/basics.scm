@@ -1,3 +1,7 @@
+;;;; SPDX-FileCopyrightText: 2013 John Cowan <cowan@ccil.org>
+;;;;
+;;;; SPDX-License-Identifier: MIT
+
 ;;;; Main part of the SRFI 114 reference implementation
 
 ;;; Not provided are the definition of the default comparator (which is

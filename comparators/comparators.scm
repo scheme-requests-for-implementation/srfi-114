@@ -1,3 +1,7 @@
+;;;; SPDX-FileCopyrightText: 2013 John Cowan <cowan@ccil.org>
+;;;;
+;;;; SPDX-License-Identifier: MIT
+
 (require-library srfi-4)
 (require-library numbers)
 (require-library srfi-13)

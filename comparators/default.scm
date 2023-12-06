@@ -1,3 +1,7 @@
+;;;; SPDX-FileCopyrightText: 2013 John Cowan <cowan@ccil.org>
+;;;;
+;;;; SPDX-License-Identifier: MIT
+
 ;;; The default comparator
 
 ;; The unknown-object comparator, used as a fallback to everything else
